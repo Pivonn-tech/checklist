@@ -2,7 +2,6 @@
 
 Welcome to My Interactive Checklist – the checklist app that makes staying organized a breeze! ✅
 
-![My Checklist](/storage/emulated/0/Pictures/Screenshots/Screenshot_20230903-022646~2.png)
 
 ## 🌟 Features
 
