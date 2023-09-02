@@ -45,7 +45,7 @@ If you find this checklist app useful, show your support by giving it a ⭐️ o
 
 ## 📧 Contact
 
-Have questions, suggestions, or feedback? Reach out to us at [your-email@example.com](mailto:your-email@example.com).
+Have questions, suggestions, or feedback? Reach out to me at [pivonayunga47@gmail.com](mailto:pivonayunga47@gmail.com).
 
 ## 👏 Credits
 
