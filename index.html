@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"
+    />
+    <title>Checklist</title>
+  </head>
+  <body class="light-theme">
+    <h1>My Interactive Checklist</h1>
+    <div id="checklist">
+      <!-- Sample items, you can add more as needed -->
+      <div class="item">
+        <input type="checkbox" id="item1" />
+        <label for="item1"></i> Item 1</label>
+        <button class="delete-btn"><i class="fas fa-trash-alt"></i></button>
+      </div>
+      <div class="item">
+        <input type="checkbox" id="item2" />
+        <label for="item2"></i> Item 2</label>
+        <button class="delete-btn"><i class="fas fa-trash-alt"></i></button>
+      </div>
+      <div class="item">
+        <input type="checkbox" id="item3" />
+        <label for="item2"></i> Item 3</label>
+        <button class="delete-btn"><i class="fas fa-trash-alt"></i></button>
+      </div>
+      <div class="item">
+        <input type="checkbox" id="item4" />
+        <label for="item2"></i> Item 4</label>
+        <button class="delete-btn"><i class="fas fa-trash-alt"></i></button>
+      </div>
+    </div>
+    <div id="add-item-section">
+      <i class="fas fa-plus"></i>
+      <input type="text" id="newItem" placeholder="Add a new item" />
+      <button id="addItem">Add Item</button>
+    </div>
+    <div id="progress-bar">
+      <div id="progress-fill"></div>
+    </div>
+    <footer>Proudly Created by &copy; Pivonn - Checklist.</footer>
+    <div class="theme-switch">
+      <label class="switch">
+        <input type="checkbox" id="theme-toggle" />
+        <span class="slider round"></span>
+      </label>
+      <span class="theme-label">Dark Mode</span>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
